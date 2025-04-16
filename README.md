@@ -9,6 +9,6 @@ Check out my Canva portfolio here 👇
 ## 📄 Harshini Thakur – Resume
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/609f61e4-93e3-4fe4-ab16-d10d14603709" alt="Resume Page 1" width="600"><br>
-  <img src="https://github.com/user-attachments/assets/29753f37-8c36-4d4c-b7a8-c1d058062de9" alt="Resume Page 2" width="600">
+  <img src="https://raw.githubusercontent.com/harshini124/canva-portfolio/main/assets/resume-page1.png" alt="Resume Page 1" width="600"><br>
+  <img src="https://raw.githubusercontent.com/harshini124/canva-portfolio/main/assets/resume-page2.png" alt="Resume Page 2" width="600">
 </p>
