@@ -1,4 +1,4 @@
-# 🎨 Harshini Thakur –Portfolio
+# Harshini Thakur –Portfolio
 
 Check out portfolio below 👇
 
